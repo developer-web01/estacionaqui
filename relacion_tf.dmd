@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="relacion_tf" id="5CB3DAAD-1868-0DB8-9B91-558402CA471C" version="3.5">
+<createdBy>Giovani</createdBy>
+<createdTime>2018-03-21 03:53:45 UTC</createdTime>
+<ownerDesignName>relacion_tf</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5CB3DAAD-1868-0DB8-9B91-558402CA471C</designId>
+</OSDM_Design>
